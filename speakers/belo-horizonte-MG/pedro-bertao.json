@@ -1,0 +1,18 @@
+{
+    "name": "Pedro Bertão", // Seu nome e sobrenome
+    "subjects": [ // áreas de interesse
+        "Front-end",
+        "React",
+        "React-Native",
+        "AWS",
+        "Backend",
+        "Node-JS",
+        "JavaScript",
+        "Electron",
+        "Blockchain"
+    ],
+    "socials": [
+        "[linkedin](https://www.linkedin.com/in/pedro-bert%C3%A3o-7a574a87/)", // Os links deverão seguir o padrão de markdow: [nome](link)
+        "[github](https://github.com/pedrobertao/)"
+    ]
+}
